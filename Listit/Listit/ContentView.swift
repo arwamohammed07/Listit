@@ -2,20 +2,14 @@
 //  ContentView.swift
 //  Listit
 //
-//  Created by Arwamohammed07 on 15/06/1444 AH.
+//  Created by Arwa ALghamdi on 19/06/1444 AH.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, Kadi")
-        }
-        .padding()
+        Homepage()
     }
 }
 

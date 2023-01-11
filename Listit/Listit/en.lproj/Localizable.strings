@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  Listit
+
+  Created by Arwa Alghamdi on 19/06/1444 AH.
+  
+*/
+"Add" = "Add";
+"Remind" = "Remind";
+"Accessibility" = "Accessibility";
+"Add_your task details." = "Add your task details.";
+"Enable notification to get reminder of your tasks."="Enable notification to get reminder of your tasks.";
+"Supports Arabic and English languages, and voice over."="Supports Arabic and English languages, and voice over.";
+"Daily Tasks"="Daily Tasks";
+"Add"="Add";
+"No Task Found!"="No Task Found!";
+"Task"="Task";
+"Add Task"="Add Task";
+"Description"="Description";
+"Add Description"="Add Description";
+"Time"="Time";
+"Alarm"="Alarm";
+"Add Task"="Add Task";
