@@ -1,4 +1,6 @@
 # Listit
+# App Icon
+<img width="124" alt="Screenshot 1444-06-18 at 7 36 16 PM" src="https://user-images.githubusercontent.com/107625733/212487475-0ac000ed-49fa-4d8c-ac6a-a6814f964c29.png" 
 
 
 # Our Big idea :
@@ -50,4 +52,8 @@ We find defecult implementing core data with swiftui .
 * Multilingual - Arabic , English .
 ---
 ##### DEMO Link :
+
+Uploading Listit 2.mov…
+
+
 
