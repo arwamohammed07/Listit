@@ -55,6 +55,7 @@ struct SheetIView: View {
                         }
                         VStack{
                             Text("Description")
+                              
                                 .font(.title3)
                                 .bold()
                                 .foregroundColor(.black)
@@ -63,6 +64,7 @@ struct SheetIView: View {
                             ZStack{
                                 
                                 TextField("Add Description", text: $addnotes)
+                                    .accessibilityLabel("Add Description for your task here")
                                     .padding(.trailing, 200.0)
                                     .foregroundColor(Color("Blue"))
                                     .frame(width: 310, height: 50)
@@ -77,6 +79,7 @@ struct SheetIView: View {
                         VStack(spacing: 5){
                             HStack{
                                 Text("Time")
+                                    .accessibilityLabel("Add time for your task")
                                     .font(.title3)
                                 
                                     .foregroundColor(.black)
@@ -96,6 +99,8 @@ struct SheetIView: View {
                         HStack{
                             
                             Text("Alarm")
+                                .accessibilityLabel("Add time alarm for your task here to remind you")
+
                                 .font(.title3)
                             
                                 .foregroundColor(.black)
@@ -119,7 +124,7 @@ struct SheetIView: View {
                         coreDataViewModel.addList(title: addtask, descriotion: addnotes, date: days )
                          dismiss()
                     }
-                    
+                    .accessibilityLabel("Enter to save your task")
                     .font(.headline)
                     .foregroundColor(.white)
                     .frame(width: 300, height: 50)

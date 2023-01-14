@@ -2,17 +2,18 @@
   Localizable.strings
   Listit
 
-  Created by Arwamohammed07 on 19/06/1444 AH.
+  Created by Arwa Alghamdi,Kadi Alharbi on 19/06/1444 AH.
   
 */
 "Add" = "إضافة";
 "Remind" = "تذكير";
 "Accessibility" = "إمكانية الوصول";
-"Add_your task details." = "أضف تفاصيل يومك.";
+"Add your task details." = "أضف تفاصيل يومك.";
 "Enable notification to get reminder of your tasks."="قم بتفعيل التنبيهات للحصول على تذكير بمهامك.";
 "Supports Arabic and English languages, and voice over."="يدعم اللغتين العربية و الإنجليزية ، والتعليق الصوتي";
 "Daily Tasks"="المهام اليومية";
 "No Task Found!"="لم يتم العثور على مهام";
+"No Task Found here"="لم يتم العثور على مهام هنا";
 "Task"="المهمة";
 "Add Task"="أضف مهتمك";
 "Description"="الوصف";
@@ -20,3 +21,7 @@
 "Time"="الوقت";
 "Alarm"="وقت التنبيه";
 "Save Task"="حفظ المهام";
+"Add Description for your task here"="أضف وصف مهمتك هنا";
+"Enter here to add your task"="إضغط هنا لإضافة مهمتك";
+"No Task Found here"="لا يوجد مهام هنا";
+"Add time alarm for your task here to remind you"="اضف الوقت المناسب لتذكيرك بمهامك";

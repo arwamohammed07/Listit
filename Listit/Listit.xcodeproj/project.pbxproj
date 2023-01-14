@@ -23,6 +23,7 @@
 		E22D8D0E296F643A00797CF3 /* TaskCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22D8D0B296F643A00797CF3 /* TaskCard.swift */; };
 		E22D8D10296F646E00797CF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E22D8D0F296F646E00797CF3 /* Assets.xcassets */; };
 		E22D8D13296F686600797CF3 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = E22D8D15296F686600797CF3 /* Localizable.strings */; };
+		E2FA88BB2972971000145388 /* Notifications.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2FA88BA2972971000145388 /* Notifications.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		E22D8D0F296F646E00797CF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E22D8D14296F686600797CF3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		E22D8D16296F687200797CF3 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Localizable.strings; sourceTree = "<group>"; };
+		E2FA88BA2972971000145388 /* Notifications.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notifications.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				E22D8D05296F643100797CF3 /* SingleOnbordingView.swift */,
 				E22D8D06296F643100797CF3 /* Homepage.swift */,
 				E22D8D09296F643A00797CF3 /* CheckBoxView.swift */,
+				E2FA88BA2972971000145388 /* Notifications.swift */,
 				E22D8D0A296F643A00797CF3 /* SheetIView.swift */,
 				E22D8D0B296F643A00797CF3 /* TaskCard.swift */,
 				E22D8CDD296F61BF00797CF3 /* ListContainer.xcdatamodeld */,
@@ -184,6 +187,7 @@
 				E22D8CEF296F61BF00797CF3 /* ListContainer.xcdatamodeld in Sources */,
 				E22D8D04296F642400797CF3 /* Onbording.swift in Sources */,
 				E22D8D0E296F643A00797CF3 /* TaskCard.swift in Sources */,
+				E2FA88BB2972971000145388 /* Notifications.swift in Sources */,
 				E22D8D0C296F643A00797CF3 /* CheckBoxView.swift in Sources */,
 				E20BDA2A296AA40900376249 /* ListitApp.swift in Sources */,
 				E22D8D07296F643100797CF3 /* SingleOnbordingView.swift in Sources */,

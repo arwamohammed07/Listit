@@ -2,7 +2,7 @@
   Localizable.strings
   Listit
 
-  Created by Arwa Alghamdi on 19/06/1444 AH.
+  Created by Arwa Alghamdi,Kadi Alharbi on 19/06/1444 AH.
   
 */
 "Add" = "Add";
@@ -20,4 +20,8 @@
 "Add Description"="Add Description";
 "Time"="Time";
 "Alarm"="Alarm";
-"Add Task"="Add Task";
+"Save Task"="Save Task";
+"Add Description for your task here"="Add Description for your task here";
+"Enter here to add your task"="Enter here to add your task";
+"No Task Found here"="No Task Found here";
+"Add time alarm for your task here to remind you"="Add time alarm for your task here to remind you";

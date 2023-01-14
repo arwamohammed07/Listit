@@ -24,6 +24,7 @@ struct Homepage: View {
             VStack {
                 VStack(spacing: 10) {
                     Text("Daily Tasks")
+                      
                         .bold()
                     Text(Date().formatted(date: .abbreviated, time: .omitted))
                         .foregroundColor(.gray)
@@ -34,6 +35,7 @@ struct Homepage: View {
                             
                             showingDetail = true
                         }
+                        .accessibilityLabel("Enter here to add your task")
                         .sheet(isPresented: $showingDetail) {
                             
                             SheetIView()
@@ -128,6 +130,7 @@ struct Homepage: View {
             if let tasks = taskModel.filteredTask{
                 if tasks.isEmpty{
                     Text("No Task Found!")
+                        .accessibilityLabel("No Task Found here")
                         .font(.system(size: 16))
                         .foregroundColor(.gray)
                         .fontWeight(.light)
