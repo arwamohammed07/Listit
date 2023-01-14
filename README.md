@@ -25,6 +25,9 @@
 * X Code - Programin
 * Miro - CBL
 * Accessibility - Voice Over 
+
+Here is a link for the design :
+* https://sketch.com/s/53308f13-77b1-4dbd-a686-051b31b5df0a
 ---
 #### Tools :
 
