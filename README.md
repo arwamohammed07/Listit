@@ -54,7 +54,9 @@ We find defecult implementing core data with swiftui .
 ---
 ##### DEMO Link :
 
-Uploading Listit 2.mov…
+
+
+https://files.fm/u/4yhjfyt2y
 
 
 
