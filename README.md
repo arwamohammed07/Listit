@@ -1,6 +1,7 @@
 # Listit
 # App Icon
-<img width="124" alt="Screenshot 1444-06-18 at 7 36 16 PM" src="https://user-images.githubusercontent.com/107625733/212487475-0ac000ed-49fa-4d8c-ac6a-a6814f964c29.png" 
+
+<img width="124" alt="List it" src="https://user-images.githubusercontent.com/107625733/212540057-a2c6e2c7-e295-4ee7-ad38-3ef13ec05a2c.png">
 
 
 # Our Big idea :
