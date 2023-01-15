@@ -43,11 +43,11 @@ Here is a link for the design :
 
 ##### Challenge Statment :
 
-* Problems :
+ Problems :
 
-We find defecult implementing core data with swiftui .
+* We find defecult implementing core data with swiftui .
 
-* Features :
+ Features :
 
 * Accessibility - Voice over .
 * Multilingual - Arabic , English .
